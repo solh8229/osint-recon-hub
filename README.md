@@ -1,7 +1,7 @@
 # 🔍 OSINT & Recon Resource Hub
 
-> A curated collection of tools and resources for open-source intelligence, digital investigations, and threat monitoring.  
-> **For authorized use only — ethical and legal investigative purposes.**
+> A curated collection of tools and resources for open-source intelligence, digital investigations and threat monitoring.  
+> **For authorized use only ethical and legal investigative purposes.**
 
 ---
 
@@ -233,4 +233,4 @@
 
 ---
 
-*Maintained for authorized OSINT, red team research, and digital forensics use.*
+*Maintained for authorized OSINT, red team research and digital forensics use.*
